@@ -1063,7 +1063,6 @@
 - [gwbischof/bluesky-social-mcp](https://github.com/gwbischof/bluesky-social-mcp) 🐍 🏠 - یک سرور MCP برای تعامل با Bluesky از طریق کلاینت atproto.
 - [HagaiHen/facebook-mcp-server](https://github.com/HagaiHen/facebook-mcp-server) 🐍 ☁️ - با صفحات فیس‌بوک یکپارچه می‌شود تا مدیریت مستقیم پست‌ها، نظرات و معیارهای تعامل را از طریق Graph API برای مدیریت ساده رسانه‌های اجتماعی امکان‌پذیر کند.
 - [karanb192/reddit-buddy-mcp](https://github.com/karanb192/reddit-buddy-mcp) 📇 🏠 - مرور پست‌های Reddit، جستجوی محتوا و تحلیل فعالیت کاربران بدون کلید API. با Claude Desktop به صورت پیش‌فرض کار می‌کند.
-- [kunallunia/twitter-mcp](https://github.com/LuniaKunal/mcp-twitter) 🐍 🏠 - راه حل مدیریت همه‌کاره توییتر که دسترسی به تایم‌لاین، بازیابی توییت‌های کاربر، نظارت بر هشتگ‌ها، تحلیل مکالمات، پیام مستقیم، تحلیل احساسات یک پست و کنترل کامل چرخه حیات پست را - همه از طریق یک API ساده - فراهم می‌کند.
 - [macrocosm-os/macrocosmos-mcp](https://github.com/macrocosm-os/macrocosmos-mcp) - 🎖️ 🐍 ☁️ به داده‌های بی‌درنگ X/Reddit/YouTube مستقیماً در برنامه‌های LLM خود با عبارات جستجو، کاربران و فیلتر تاریخ دسترسی پیدا کنید.
 - [sinanefeozler/reddit-summarizer-mcp](https://github.com/sinanefeozler/reddit-summarizer-mcp) 🐍 🏠 ☁️ - سرور MCP برای خلاصه‌سازی صفحه اصلی Reddit کاربران یا هر subreddit بر اساس پست‌ها و نظرات.
 
