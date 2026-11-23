@@ -628,7 +628,6 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 ソーシャルメディアプラットフォームとの統合により、投稿、アナリティクス、インタラクション管理を可能にします。ソーシャルプレゼンスのAI駆動自動化を実現します。
 
 - [macrocosm-os/macrocosmos-mcp](https://github.com/macrocosm-os/macrocosmos-mcp) 🎖️ 🐍 ☁️ - 検索フレーズ、ユーザー、日付フィルタリングでリアルタイムX/Reddit/YouTubeデータにLLMアプリケーション内で直接アクセス
-- [kunallunia/twitter-mcp](https://github.com/LuniaKunal/mcp-twitter) 🐍 🏠 - タイムラインアクセス、ユーザーツイート取得、ハッシュタグモニタリング、会話分析、ダイレクトメッセージング、投稿の感情分析、完全な投稿ライフサイクル制御を提供するオールインワンTwitter管理ソリューション
 - [HagaiHen/facebook-mcp-server](https://github.com/HagaiHen/facebook-mcp-server) 🐍 ☁️ - Facebookページと統合し、Graph APIを通じて投稿、コメント、エンゲージメントメトリクスの直接管理を可能にして、ソーシャルメディア管理を効率化
 - [gwbischof/bluesky-social-mcp](https://github.com/gwbischof/bluesky-social-mcp) 🐍 🏠 - atprotoクライアント経由でBlueskyと対話するMCPサーバー
 
