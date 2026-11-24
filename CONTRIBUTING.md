@@ -43,6 +43,7 @@ Contributions are welcome and encouraged!  Whether you're fixing a typo, adding 
 * **Keep it consistent:** Follow the existing format and style of the `README.md` file.  This includes formatting, capitalization, and punctuation.
 * **Alphabetical order:**  Maintain alphabetical order within each category of servers.  This makes it easier to find specific servers.
 * **Accurate information:** Ensure that all information is accurate and up-to-date.  Double-check links and descriptions before submitting your changes.
+* **Install commands:** If a listing includes `npx`, `npm install`, `pip install`, or `uvx`, the name after the command must be the published registry package for that project, not a binary name that belongs to a different (or empty) package.
 * **One server per line:** List each server on a separate line for better readability.
 * **Clear descriptions:** Write concise and informative descriptions for each server.  Explain what the server does and what its key features are.
 
