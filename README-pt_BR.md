@@ -109,7 +109,7 @@ Confira [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/) 
 
 Servidores para acessar muitos aplicativos e ferramentas por meio de um único servidor MCP.
 
-- [1mcp/agent](https://github.com/1mcp-app/agent) 📇 ☁️ 🏠 🍎 🪟 🐧 - Uma implementação de servidor MCP unificado que agrega vários servidores MCP em um único servidor.
+- [1mcp-app/agent](https://github.com/1mcp-app/agent) 📇 ☁️ 🏠 🍎 🪟 🐧 - Uma implementação de servidor MCP unificado que agrega vários servidores MCP em um único servidor.
 - [julien040/anyquery](https://github.com/julien040/anyquery) 🏎️ 🏠 ☁️ - Consulte mais de 40 aplicativos com um único binário usando SQL. Também pode se conectar ao seu banco de dados compatível com PostgreSQL, MySQL ou SQLite. Local primeiro e privado por design.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) ☁️ 🏠 - Conecte-se a 2.500 APIs com mais de 8.000 ferramentas pré-construídas e gerencie servidores para seus usuários, em seu próprio aplicativo.
 - [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - Transforme uma API web em um servidor MCP em 10 segundos e adicione-o ao registro de código aberto: https://open-mcp.org
@@ -150,12 +150,11 @@ Acesso e recursos de automação de conteúdo web. Permite pesquisar, extrair e 
 
 - [BB-fat/browser-use-rs](https://github.com/BB-fat/browser-use-rs) 🦀 - Servidor MCP leve de automação de navegador em Rust, sem dependências externas.
 - [34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - Um servidor MCP que suporta a pesquisa de conteúdo do Bilibili. Fornece exemplos de integração com LangChain e scripts de teste.
-- [automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🐍 - Um servidor MCP para automação de navegador usando Playwright
+- [Automata-Labs-team/MCP-Server-Playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🐍 - Um servidor MCP para automação de navegador usando Playwright
 - [blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp) 🐍 - Um servidor MCP em python usando Playwright para automação de navegador, mais adequado para LLM
 - [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) 🎖️ 📇 - Automatize interações do navegador na nuvem (por exemplo, navegação web, extração de dados, preenchimento de formulários e mais)
 - [browsermcp/mcp](https://github.com/browsermcp/mcp) 📇 🏠 - Automatize seu navegador Chrome local
 - [brutalzinn/simple-mcp-selenium](https://github.com/brutalzinn/simple-mcp-selenium) 📇 🏠 - Um servidor MCP Selenium para controlar navegadores usando linguagem natural no Cursor IDE. Perfeito para testes, automação e cenários multiusuário.
-- [co-browser/browser-use-mcp-server](https://github.com/co-browser/browser-use-mcp-server) 🐍 - browser-use empacotado como um servidor MCP com transporte SSE. Inclui um dockerfile para executar o chromium em docker + um servidor vnc.
 - [executeautomation/playwright-mcp-server](https://github.com/executeautomation/mcp-playwright) 📇 - Um servidor MCP usando Playwright para automação de navegador e raspagem web
 - [eyalzh/browser-control-mcp](https://github.com/eyalzh/browser-control-mcp) 📇 🏠 - Um servidor MCP pareado com uma extensão de navegador que permite clientes LLM controlar o navegador do usuário (Firefox).
 - [freema/firefox-devtools-mcp](https://github.com/freema/firefox-devtools-mcp) 📇 🏠 - Automação do navegador Firefox via WebDriver BiDi para testes, raspagem e controle do navegador. Suporta interações baseadas em snapshot/UID, monitoramento de rede, captura de console e screenshots.
@@ -226,7 +225,7 @@ Integração com plataformas de comunicação para gerenciamento de mensagens e 
 
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) ☁️ - Um servidor MCP Nostr que permite interagir com Nostr, possibilitando a publicação de notas e muito mais.
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) 🐍 ☁️ - Interaja com pesquisa e timeline do Twitter
-- [agentmail-toolkit/mcp](https://github.com/agentmail-to/agentmail-toolkit/tree/main/mcp) 🐍 💬 - Um servidor MCP para criar caixas de entrada instantaneamente para enviar, receber e realizar ações em e-mails. Não somos agentes de IA para e-mail, mas e-mail para Agentes de IA.
+- [agentmail-to/agentmail-toolkit](https://github.com/agentmail-to/agentmail-toolkit/tree/main/mcp) 🐍 💬 - Um servidor MCP para criar caixas de entrada instantaneamente para enviar, receber e realizar ações em e-mails. Não somos agentes de IA para e-mail, mas e-mail para Agentes de IA.
 - [arpitbatra123/mcp-googletasks](https://github.com/arpitbatra123/mcp-googletasks) 📇 ☁️ - Um servidor MCP para interface com a API do Google Tasks
 - [carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp) 🏠 🍎 🚀 - Um servidor MCP que se conecta de forma segura ao seu banco de dados iMessage via Protocolo de Contexto de Modelo (MCP), permitindo que LLMs consultem e analisem conversas do iMessage. Inclui validação robusta de números de telefone, processamento de anexos, gerenciamento de contatos, manipulação de bate-papo em grupo e suporte completo para envio e recebimento de mensagens.
 - [chaindead/telegram-mcp](https://github.com/chaindead/telegram-mcp) 🏎️ 🏠 - Integração com a API do Telegram para acessar dados do usuário, gerenciar diálogos (chats, canais, grupos), recuperar mensagens e lidar com status de leitura
@@ -251,7 +250,7 @@ Fornece acesso a perfis de clientes dentro de plataformas de dados de clientes
 - [OpenDataMCP/OpenDataMCP](https://github.com/OpenDataMCP/OpenDataMCP) 🐍 ☁️ - Conecte qualquer Dado Aberto a qualquer LLM com o Protocolo de Contexto de Modelo.
 - [sergehuber/inoyu-mcp-unomi-server](https://github.com/sergehuber/inoyu-mcp-unomi-server) 📇 ☁️ - Um servidor MCP para acessar e atualizar perfis em um servidor CDP Apache Unomi.
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - Um servidor MCP para interagir com um Workspace Tinybird a partir de qualquer cliente MCP.
-- [@antv/mcp-server-chart](https://github.com/antvis/mcp-server-chart) 🎖️ 📇 ☁️ - Um plugin do MCP Server baseado no [AntV](https://github.com/antvis) para gerar gráficos de visualização de dados.
+- [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) 🎖️ 📇 ☁️ - Um plugin do MCP Server baseado no [AntV](https://github.com/antvis) para gerar gráficos de visualização de dados.
 - [hustcc/mcp-echarts](https://github.com/hustcc/mcp-echarts) 📇 🏠 - A ferramenta MCP gera dinamicamente gráficos visuais com sintaxe do [Apache ECharts](https://echarts.apache.org) usando IA.
 - [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) 📇 🏠 - AI gera dinamicamente gráficos visuais usando a sintaxe [Mermaid](https://mermaid.js.org/) MCP.
 
@@ -260,9 +259,9 @@ Fornece acesso a perfis de clientes dentro de plataformas de dados de clientes
 Acesso seguro a banco de dados com recursos de inspeção de esquema. Permite consultar e analisar dados com controles de segurança configuráveis, incluindo acesso somente leitura.
 
 - [Aiven-Open/mcp-aiven](https://github.com/Aiven-Open/mcp-aiven) - 🐍 ☁️ 🎖️ - Navegue pelos seus [projetos Aiven](https://go.aiven.io/mcp-server) e interaja com os serviços PostgreSQL®, Apache Kafka®, ClickHouse® e OpenSearch®
-- [alexanderzuev/supabase-mcp-server](https://github.com/alexander-zuev/supabase-mcp-server) - Servidor MCP Supabase com suporte para execução de consultas SQL e ferramentas de exploração de banco de dados
+- [alexander-zuev/supabase-mcp-server](https://github.com/alexander-zuev/supabase-mcp-server) - Servidor MCP Supabase com suporte para execução de consultas SQL e ferramentas de exploração de banco de dados
 - [aliyun/alibabacloud-tablestore-mcp-server](https://github.com/aliyun/alibabacloud-tablestore-mcp-server) ☕ 🐍 ☁️ - Serviço MCP para Tablestore, funcionalidades incluem adicionar documentos, busca semântica para documentos com base em vetores e escalares, compatível com RAG e serverless.
-- [benborla29/mcp-server-mysql](https://github.com/benborla/mcp-server-mysql) ☁️ 🏠 - Integração com banco de dados MySQL em NodeJS com controles de acesso configuráveis e inspeção de esquema
+- [benborla/mcp-server-mysql](https://github.com/benborla/mcp-server-mysql) ☁️ 🏠 - Integração com banco de dados MySQL em NodeJS com controles de acesso configuráveis e inspeção de esquema
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) 📇 🏠 – Servidor MCP de banco de dados universal que suporta os principais bancos de dados.
 - [c4pt0r/mcp-server-tidb](https://github.com/c4pt0r/mcp-server-tidb) 🐍 ☁️ - Integração com banco de dados TiDB com inspeção de esquema e recursos de consulta
 - [Canner/wren-engine](https://github.com/Canner/wren-engine) 🐍 🦀 🏠 - O Motor Semântico para Clientes do Protocolo de Contexto de Modelo (MCP) e Agentes de IA
@@ -273,14 +272,14 @@ Acesso seguro a banco de dados com recursos de inspeção de esquema. Permite co
 - [prisma/mcp](https://github.com/prisma/mcp) 📇 ☁️ 🏠 - Permite que LLMs gerenciem bancos de dados Prisma Postgres (ex.: criar novos bancos de dados e executar migrações ou consultas).
 - [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) 🏎️ 🏠 - Consultas PostgreSQL em linguagem natural com streaming automático, segurança somente leitura e compatibilidade universal com bancos de dados.
 - [pgtuner_mcp](https://github.com/isdaniel/pgtuner_mcp) 🐍🗄️ - fornece recursos de ajuste de desempenho do PostgreSQL com IA.
-- [ydb/ydb-mcp](https://github.com/ydb-platform/ydb-mcp) 🎖️ 🐍 ☁️ – servidor MCP para interagir com bancos de dados [YDB](https://ydb.tech)
+- [ydb-platform/ydb-mcp](https://github.com/ydb-platform/ydb-mcp) 🎖️ 🐍 ☁️ – servidor MCP para interagir com bancos de dados [YDB](https://ydb.tech)
 
 ### 📊 <a name="plataformas-de-dados"></a>Plataformas de Dados
 
 Plataformas de dados para integração, transformação e orquestração de pipelines de dados.
 
-- [flowcore/mcp-flowcore-platform](https://github.com/flowcore-io/mcp-flowcore-platform) 🎖️📇☁️🏠 - Interaja com Flowcore para realizar ações, ingerir dados, e analisar, fazer referência cruzada e utilizar qualquer dado em seus núcleos de dados ou em núcleos de dados públicos; tudo com linguagem humana.
-- [JordiNei/mcp-databricks-server](https://github.com/JordiNeil/mcp-databricks-server) - Conecte-se à API do Databricks, permitindo que LLMs executem consultas SQL, listem trabalhos e obtenham status de trabalho.
+- [flowcore-io/mcp-flowcore-platform](https://github.com/flowcore-io/mcp-flowcore-platform) 🎖️📇☁️🏠 - Interaja com Flowcore para realizar ações, ingerir dados, e analisar, fazer referência cruzada e utilizar qualquer dado em seus núcleos de dados ou em núcleos de dados públicos; tudo com linguagem humana.
+- [JordiNeil/mcp-databricks-server](https://github.com/JordiNeil/mcp-databricks-server) - Conecte-se à API do Databricks, permitindo que LLMs executem consultas SQL, listem trabalhos e obtenham status de trabalho.
 - [jwaxman19/qlik-mcp](https://github.com/jwaxman19/qlik-mcp) 📇 ☁️ - Servidor MCP para Qlik Cloud API que permite consultar aplicativos, planilhas e extrair dados de visualizações com suporte abrangente de autenticação e limite de taxa.
 - [keboola/keboola-mcp-server](https://github.com/keboola/keboola-mcp-server) - interaja com a Plataforma de Dados Keboola Connection. Este servidor fornece ferramentas para listar e acessar dados da API de Armazenamento Keboola.
 
@@ -335,7 +334,7 @@ Fornece acesso direto aos sistemas de arquivos locais com permissões configurá
 - [8b-is/smart-tree](https://github.com/8b-is/smart-tree) 🦀 🏠 🍎 🪟 🐧 - Visualização de diretório nativa para IA com análise semântica, formatos ultra-comprimidos para consumo de IA e redução de tokens 10x. Suporta modo quântico-semântico com categorização inteligente de arquivos.
 - [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) 🐍 🏠 - Compartilhe contexto de código com LLMs via MCP ou área de transferência
 - [exoticknight/mcp-file-merger](https://github.com/exoticknight/mcp-file-merger) 🏎️ 🏠 - Ferramenta de mesclagem de arquivos, adequada para limites de comprimento de chat de IA.
-- [filesystem@quarkiverse/quarkus-mcp-servers](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/filesystem) ☕ 🏠 - Um sistema de arquivos que permite navegar e editar arquivos implementado em Java usando Quarkus. Disponível como jar ou imagem nativa.
+- [quarkiverse/quarkus-mcp-servers](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/filesystem) ☕ 🏠 - Um sistema de arquivos que permite navegar e editar arquivos implementado em Java usando Quarkus. Disponível como jar ou imagem nativa.
 - [hmk/box-mcp-server](https://github.com/hmk/box-mcp-server) 📇 ☁️ - Integração com Box para listar, ler e pesquisar arquivos
 - [mamertofabian/mcp-everything-search](https://github.com/mamertofabian/mcp-everything-search) 🐍 🏠 🪟 - Pesquisa rápida de arquivos no Windows usando o SDK Everything
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) 🏎️ 🏠 - Implementação em Golang para acesso ao sistema de arquivos local.
@@ -368,7 +367,7 @@ Acesso a dados financeiros e ferramentas de análise. Permite que modelos de IA 
 Integração com dados relacionados a jogos, motores de jogos e serviços
 - [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) 📇 #️⃣ 🏠 - Servidor MCP para integração com a Engine de Jogos Unity3d para desenvolvimento de jogos
 - [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) 📇 🏠 - Um servidor MCP para interagir com o motor de jogos Godot, fornecendo ferramentas para editar, executar, depurar e gerenciar cenas em projetos Godot.
-- [pab1ito/chess-mcp](https://github.com/pab1it0/chess-mcp) 🐍 ☁️ - Acesse dados de jogadores do Chess.com, registros de jogos e outras informações públicas através de interfaces MCP padronizadas, permitindo que assistentes de IA pesquisem e analisem informações de xadrez.
+- [pab1it0/chess-mcp](https://github.com/pab1it0/chess-mcp) 🐍 ☁️ - Acesse dados de jogadores do Chess.com, registros de jogos e outras informações públicas através de interfaces MCP padronizadas, permitindo que assistentes de IA pesquisem e analisem informações de xadrez.
 - [rishijatia/fantasy-pl-mcp](https://github.com/rishijatia/fantasy-pl-mcp/) 🐍 ☁️ - Um servidor MCP para dados e ferramentas de análise em tempo real do Fantasy Premier League.
 - [opgginc/opgg-mcp](https://github.com/opgginc/opgg-mcp) 📇 ☁️ - Acesse dados de jogos em tempo real em títulos populares como League of Legends, TFT e Valorant, oferecendo análises de campeões, calendários de esports, composições meta e estatísticas de personagens.
 
@@ -447,7 +446,7 @@ Acesse e analise dados de monitoramento de aplicações. Permite que modelos de 
 - [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser) 📇 ☁️ - Um servidor MCP para o Ator RAG Web Browser de código aberto da Apify para realizar pesquisas na web, raspar URLs e retornar conteúdo em Markdown.
 - [Bigsy/Clojars-MCP-Server](https://github.com/Bigsy/Clojars-MCP-Server) 📇 ☁️ - Servidor MCP Clojars para informações atualizadas de dependências de bibliotecas Clojure
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) ☁️ 🐍 - Pesquise artigos de pesquisa do ArXiv
-- [chanmeng/google-news-mcp-server](https://github.com/ChanMeng666/server-google-news) 📇 ☁️ - Integração com o Google News com categorização automática de tópicos, suporte multilíngue e recursos abrangentes de pesquisa, incluindo manchetes, histórias e tópicos relacionados através do [SerpAPI](https://serpapi.com/).
+- [ChanMeng666/server-google-news](https://github.com/ChanMeng666/server-google-news) 📇 ☁️ - Integração com o Google News com categorização automática de tópicos, suporte multilíngue e recursos abrangentes de pesquisa, incluindo manchetes, histórias e tópicos relacionados através do [SerpAPI](https://serpapi.com/).
 - [DappierAI/dappier-mcp](https://github.com/DappierAI/dappier-mcp) 🐍 ☁️ - O servidor MCP da Dappier permite pesquisa web em tempo real rápida e gratuita, além de acesso a dados premium de marcas de mídia confiáveis — notícias, mercados financeiros, esportes, entretenimento, clima e muito mais — para construir agentes de IA poderosos.
 - [Pearch-ai/mcp_pearch](https://github.com/Pearch-ai/mcp_pearch) 🎖️ 🐍 ☁️ - O melhor motor de busca de pessoas que reduz o tempo gasto na descoberta de talentos
 
@@ -458,8 +457,6 @@ Acesse e analise dados de monitoramento de aplicações. Permite que modelos de 
 - [firstorderai/authenticator_mcp](https://github.com/firstorderai/authenticator_mcp) 📇 🏠 🍎 🪟 🐧 – Um servidor MCP (Model Context Protocol) seguro que permite que agentes de IA interajam com o aplicativo autenticador.
 - [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) 🐍 ☕ 🏠 - Servidor MCP para integrar Ghidra com assistentes de IA. Este plugin permite análise binária, fornecendo ferramentas para inspeção de funções, descompilação, exploração de memória e análise de importação/exportação via Protocolo de Contexto de Modelo.
 - [atomicchonk/roadrecon_mcp_server](https://github.com/atomicchonk/roadrecon_mcp_server) 🐍 🪟 🏠 Servidor MCP para analisar resultados coletados do ROADrecon na enumeração de inquilino Azure
-- [BurtTheCoder/mcp-dnstwist](https://github.com/BurtTheCoder/mcp-dnstwist) 📇 🪟 ☁️ - Servidor MCP para dnstwist, uma poderosa ferramenta de fuzzing DNS que ajuda a detectar typosquatting, phishing e espionagem corporativa.
-- [BurtTheCoder/mcp-maigret](https://github.com/BurtTheCoder/mcp-maigret) 📇 🪟 ☁️ - Servidor MCP para maigret, uma poderosa ferramenta OSINT que coleta informações de contas de usuários de várias fontes públicas. Este servidor fornece ferramentas para pesquisar nomes de usuário em redes sociais e analisar URLs.
 - [intruder-io/intruder-mcp](https://github.com/intruder-io/intruder-mcp) 🐍 ☁️ - Servidor MCP para acessar o [Intruder](https://www.intruder.io/), ajudando você a identificar, entender e corrigir vulnerabilidades de segurança na sua infraestrutura.
 - [joergmichno/clawguard-mcp](https://github.com/joergmichno/clawguard-mcp) ([glama](https://glama.ai/mcp/servers/joergmichno/clawguard-mcp)) 🐍 🏠 - Security scanner for AI agents that detects prompt injections using 42+ regex patterns
 - [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP) ☕ 🏠 - Um servidor nativo do Model Context Protocol para o Ghidra. Inclui configuração via interface gráfica, registro de logs, 31 ferramentas poderosas e nenhuma dependência externa.
