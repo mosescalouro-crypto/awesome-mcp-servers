@@ -103,7 +103,7 @@
 
 เซิร์ฟเวอร์สำหรับเข้าถึงแอปและเครื่องมือจำนวนมากผ่าน MCP เซิร์ฟเวอร์เดียว
 
-- [1mcp/agent](https://github.com/1mcp-app/agent) 📇 ☁️ 🏠 🍎 🪟 🐧 - เซิร์ฟเวอร์ MCP ที่รวมกันหลายเซิร์ฟเวอร์ MCP เป็นเซิร์ฟเวอร์เดียว
+- [1mcp-app/agent](https://github.com/1mcp-app/agent) 📇 ☁️ 🏠 🍎 🪟 🐧 - เซิร์ฟเวอร์ MCP ที่รวมกันหลายเซิร์ฟเวอร์ MCP เป็นเซิร์ฟเวอร์เดียว
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) ☁️ 🏠 - เชื่อมต่อกับ API 2,500 รายการ พร้อมเครื่องมือสำเร็จรูป 8,000+ รายการ และจัดการเซิร์ฟเวอร์สำหรับผู้ใช้งานของคุณในแอปของคุณเอง
 - [tigranbs/mcgravity](https://github.com/tigranbs/mcgravity) 📇 🏠 - เครื่องมือพร็อกซี่สำหรับรวมเซิร์ฟเวอร์ MCP หลายตัวเข้าด้วยกันเป็นจุดเชื่อมต่อเดียว ปรับขนาดเครื่องมือ AI ของคุณด้วยการกระจายโหลดคำขอระหว่างเซิร์ฟเวอร์ MCP หลายตัว คล้ายกับวิธีที่ Nginx ทำงานสำหรับเว็บเซิร์ฟเวอร์
 - [YangLiangwei/PersonalizationMCP](https://github.com/YangLiangwei/PersonalizationMCP) 🐍 ☁️ 🏠 🍎 🪟 🐧 - เซิร์ฟเวอร์ MCP รวมข้อมูลส่วนตัวที่ครอบคลุมด้วยการรวม Steam, YouTube, Bilibili, Spotify, Reddit และแพลตฟอร์มอื่นๆ พร้อมการรับรองความถูกต้อง OAuth2 การจัดการโทเค็นอัตโนมัติ และเครื่องมือ 90+ สำหรับเข้าถึงข้อมูลเกม เพลง วิดีโอ และแพลตฟอร์มโซเชียล
@@ -138,7 +138,7 @@
 
 - [BB-fat/browser-use-rs](https://github.com/BB-fat/browser-use-rs) 🦀 - เซิร์ฟเวอร์ MCP สำหรับการทำงานอัตโนมัติของเบราว์เซอร์ที่มีน้ำหนักเบา เขียนด้วย Rust และไม่มีการพึ่งพาภายนอก.
 - [34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - เซิร์ฟเวอร์ MCP ที่สนับสนุนการค้นหาเนื้อหา Bilibili พร้อมตัวอย่างการผสานรวม LangChain และสคริปต์ทดสอบ
-- [automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🐍 - เซิร์ฟเวอร์ MCP สำหรับการทำงานอัตโนมัติของเบราว์เซอร์โดยใช้ Playwright
+- [Automata-Labs-team/MCP-Server-Playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🐍 - เซิร์ฟเวอร์ MCP สำหรับการทำงานอัตโนมัติของเบราว์เซอร์โดยใช้ Playwright
 - [blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp) 🐍 - เซิร์ฟเวอร์ MCP Python ที่ใช้ Playwright สำหรับการทำงานอัตโนมัติของเบราว์เซอร์ เหมาะสำหรับ llm มากขึ้น
 - [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) 🎖️ 📇 - ทำงานอัตโนมัติกับเบราว์เซอร์บนคลาวด์ (เช่น การนำทางเว็บ การดึงข้อมูล การกรอกแบบฟอร์ม และอื่นๆ)
 - [brutalzinn/simple-mcp-selenium](https://github.com/brutalzinn/simple-mcp-selenium) 📇 🏠 - เซิร์ฟเวอร์ MCP Selenium สำหรับควบคุมเบราว์เซอร์ด้วยภาษาธรรมชาติใน Cursor IDE เหมาะอย่างยิ่งสำหรับการทดสอบ การทำงานอัตโนมัติ และสถานการณ์การใช้งานหลายผู้ใช้
@@ -183,7 +183,7 @@
 
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) - 🌐 ☁️ - เซิร์ฟเวอร์ Nostr MCP ที่ช่วยให้สามารถโต้ตอบกับ Nostr เปิดใช้งานการโพสต์บันทึก และอื่นๆ
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) 🐍 ☁️ - โต้ตอบกับการค้นหาและไทม์ไลน์ Twitter
-- [agentmail-toolkit/mcp](https://github.com/agentmail-to/agentmail-toolkit/tree/main/mcp) - 🐍 💬 - เซิร์ฟเวอร์ MCP เพื่อสร้างกล่องจดหมายแบบทันทีสำหรับส่ง รับ และดำเนินการกับอีเมล เราไม่ใช่ตัวแทน AI สำหรับอีเมล แต่เป็นอีเมลสำหรับตัวแทน AI
+- [agentmail-to/agentmail-toolkit](https://github.com/agentmail-to/agentmail-toolkit/tree/main/mcp) - 🐍 💬 - เซิร์ฟเวอร์ MCP เพื่อสร้างกล่องจดหมายแบบทันทีสำหรับส่ง รับ และดำเนินการกับอีเมล เราไม่ใช่ตัวแทน AI สำหรับอีเมล แต่เป็นอีเมลสำหรับตัวแทน AI
 - [line/line-bot-mcp-server](https://github.com/line/line-bot-mcp-server) 🎖 📇 ☁️ - เซิร์ฟเวอร์ MCP สำหรับการรวมบัญชี LINE ทางการ
 - [ztxtxwd/open-feishu-mcp-server](https://github.com/ztxtxwd/open-feishu-mcp-server) 📇 ☁️ 🏠 - เซิร์ฟเวอร์ Model Context Protocol (MCP) ที่มีการรับรองความถูกต้อง Feishu OAuth ในตัว รองรับการเชื่อมต่อระยะไกลและให้เครื่องมือจัดการเอกสาร Feishu ที่ครอบคลุม รวมถึงการสร้างบล็อค การอัปเดตเนื้อหา และคุณสมบัติขั้นสูง
 - [YCloud-Developers/ycloud-whatsapp-mcp-server](https://github.com/YCloud-Developers/ycloud-whatsapp-mcp-server) 📇 🏠 - เซิร์ฟเวอร์ MCP สำหรับส่งข้อความ WhatsApp Business ผ่านแพลตฟอร์ม YCloud
@@ -197,7 +197,7 @@
 
 - [iaptic/mcp-server-iaptic](https://github.com/iaptic/mcp-server-iaptic) 🎖️ 📇 ☁️ - เชื่อมต่อกับ [iaptic](https://www.iaptic.com) เพื่อถามเกี่ยวกับการซื้อของลูกค้า ข้อมูลธุรกรรม และสถิติรายได้ของแอป
 - [OpenDataMCP/OpenDataMCP](https://github.com/OpenDataMCP/OpenDataMCP) 🐍 ☁️ - เชื่อมต่อข้อมูลเปิดใดๆ กับ LLM ใดๆ ด้วย Model Context Protocol
-- [@antv/mcp-server-chart](https://github.com/antvis/mcp-server-chart) 🎖️ 📇 ☁️ - ปลั๊กอินสำหรับ MCP Server ที่สร้างขึ้นเพื่อสร้างแผนภูมิการมองเห็นข้อมูลโดยใช้ [AntV](https://github.com/antvis)
+- [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) 🎖️ 📇 ☁️ - ปลั๊กอินสำหรับ MCP Server ที่สร้างขึ้นเพื่อสร้างแผนภูมิการมองเห็นข้อมูลโดยใช้ [AntV](https://github.com/antvis)
 - [hustcc/mcp-echarts](https://github.com/hustcc/mcp-echarts) 📇 🏠 - AI สร้างแผนภูมิการมองเห็นที่เขียนด้วยไวยากรณ์ของ [Apache ECharts](https://echarts.apache.org) แบบไดนามิก MCP
 - [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) 📇 🏠 - AI สร้างแผนภูมิที่มองเห็นได้แบบไดนามิกโดยใช้ไวยากรณ์ของ [Mermaid](ttps://mermaid.js.org/) MCP
 
@@ -206,9 +206,9 @@
 การเข้าถึงฐานข้อมูลอย่างปลอดภัยพร้อมความสามารถในการตรวจสอบสคีมา ช่วยให้สามารถสืบค้นและวิเคราะห์ข้อมูลด้วยการควบคุมความปลอดภัยที่กำหนดค่าได้ รวมถึงการเข้าถึงแบบอ่านอย่างเดียว
 
 - [Aiven-Open/mcp-aiven](https://github.com/Aiven-Open/mcp-aiven) - 🐍 ☁️ 🎖️ - นำทางโปรเจ็กต์ [Aiven](https://go.aiven.io/mcp-server) ของคุณและโต้ตอบกับบริการ PostgreSQL®, Apache Kafka®, ClickHouse® และ OpenSearch®
-- [alexanderzuev/supabase-mcp-server](https://github.com/alexander-zuev/supabase-mcp-server) - เซิร์ฟเวอร์ Supabase MCP พร้อมการสนับสนุนการเรียกใช้คำสั่ง SQL และเครื่องมือสำรวจฐานข้อมูล
+- [alexander-zuev/supabase-mcp-server](https://github.com/alexander-zuev/supabase-mcp-server) - เซิร์ฟเวอร์ Supabase MCP พร้อมการสนับสนุนการเรียกใช้คำสั่ง SQL และเครื่องมือสำรวจฐานข้อมูล
 - [aliyun/alibabacloud-tablestore-mcp-server](https://github.com/aliyun/alibabacloud-tablestore-mcp-server) ☕ 🐍 ☁️ - บริการ MCP สำหรับ Tablestore คุณสมบัติรวมถึงการเพิ่มเอกสาร การค้นหาเชิงความหมายสำหรับเอกสารตามเวกเตอร์และสเกลาร์ เป็นมิตรกับ RAG และไร้เซิร์ฟเวอร์
-- [benborla29/mcp-server-mysql](https://github.com/benborla/mcp-server-mysql) ☁️ 🏠 - การผสานรวมฐานข้อมูล MySQL ใน NodeJS พร้อมการควบคุมการเข้าถึงที่กำหนดค่าได้และการตรวจสอบสคีมา
+- [benborla/mcp-server-mysql](https://github.com/benborla/mcp-server-mysql) ☁️ 🏠 - การผสานรวมฐานข้อมูล MySQL ใน NodeJS พร้อมการควบคุมการเข้าถึงที่กำหนดค่าได้และการตรวจสอบสคีมา
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) 📇 🏠 – เซิร์ฟเวอร์ MCP ฐานข้อมูลสากลที่รองรับฐานข้อมูลกระแสหลัก
 - [c4pt0r/mcp-server-tidb](https://github.com/c4pt0r/mcp-server-tidb) 🐍 ☁️ - การผสานรวมฐานข้อมูล TiDB พร้อมความสามารถในการตรวจสอบสคีมาและการสืบค้น
 - [Canner/wren-engine](https://github.com/Canner/wren-engine) 🐍 🦀 🏠 - Semantic Engine สำหรับไคลเอนต์ Model Context Protocol (MCP) และตัวแทน AI
@@ -226,7 +226,6 @@
 - [FreePeak/db-mcp-server](https://github.com/FreePeak/db-mcp-server) 🏎️ 🏠 – เซิร์ฟเวอร์ MCP ฐานข้อมูลหลายตัวประสิทธิภาพสูงที่สร้างด้วย Golang รองรับ MySQL & PostgreSQL (NoSQL กำลังจะมาเร็วๆ นี้) รวมถึงเครื่องมือในตัวสำหรับการเรียกใช้คำสั่ง การจัดการธุรกรรม การสำรวจสคีมา การสร้างคำสั่ง และการวิเคราะห์ประสิทธิภาพ พร้อมการผสานรวม Cursor อย่างราบรื่นสำหรับเวิร์กโฟลว์ฐานข้อมูลที่ปรับปรุงแล้ว
 - [furey/mongodb-lens](https://github.com/furey/mongodb-lens) 📇 🏠 - MongoDB Lens: เซิร์ฟเวอร์ MCP ที่มีคุณสมบัติครบถ้วนสำหรับฐานข้อมูล MongoDB
 - [gannonh/firebase-mcp](https://github.com/gannonh/firebase-mcp) 🔥 ⛅️ - บริการ Firebase รวมถึง Auth, Firestore และ Storage
-- [get-convex/convex-backend](https://stack.convex.dev/convex-mcp-server) 📇 ☁️ - การผสานรวมฐานข้อมูล Convex เพื่อตรวจสอบตาราง ฟังก์ชัน และเรียกใช้คำสั่งแบบครั้งเดียว ([Source](https://github.com/get-convex/convex-backend/blob/main/npm-packages/convex/src/cli/mcp.ts))
 - [GreptimeTeam/greptimedb-mcp-server](https://github.com/GreptimeTeam/greptimedb-mcp-server) 🐍 🏠 - เซิร์ฟเวอร์ MCP สำหรับการสืบค้น GreptimeDB
 - [hannesrudolph/sqlite-explorer-fastmcp-mcp-server](https://github.com/hannesrudolph/sqlite-explorer-fastmcp-mcp-server) 🐍 🏠 - เซิร์ฟเวอร์ MCP ที่ให้การเข้าถึงฐานข้อมูล SQLite แบบอ่านอย่างเดียวที่ปลอดภัยผ่าน Model Context Protocol (MCP) เซิร์ฟเวอร์นี้สร้างขึ้นด้วยเฟรมเวิร์ก FastMCP ซึ่งช่วยให้ LLMs สามารถสำรวจและสืบค้นฐานข้อมูล SQLite ด้วยคุณสมบัติความปลอดภัยในตัวและการตรวจสอบความถูกต้องของคำสั่ง
 - [idoru/influxdb-mcp-server](https://github.com/idoru/influxdb-mcp-server) 📇 ☁️ 🏠 - เรียกใช้คำสั่งกับ InfluxDB OSS API v2
@@ -237,15 +236,15 @@
 - [kiliczsh/mcp-mongo-server](https://github.com/kiliczsh/mcp-mongo-server) 📇 🏠 - เซิร์ฟเวอร์ Model Context Protocol สำหรับ MongoDB
 - [ktanaka101/mcp-server-duckdb](https://github.com/ktanaka101/mcp-server-duckdb) 🐍 🏠 - การผสานรวมฐานข้อมูล DuckDB พร้อมความสามารถในการตรวจสอบสคีมาและการสืบค้น
 - [LucasHild/mcp-server-bigquery](https://github.com/LucasHild/mcp-server-bigquery) 🐍 ☁️ - การผสานรวมฐานข้อมูล BigQuery พร้อมความสามารถในการตรวจสอบสคีมาและการสืบค้น
-- [mcp-server-jdbc](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/jdbc) ☕ 🏠 - เชื่อมต่อกับฐานข้อมูลที่เข้ากันได้กับ JDBC และสืบค้น แทรก อัปเดต ลบ และอื่นๆ
+- [quarkiverse/quarkus-mcp-servers](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/jdbc) ☕ 🏠 - เชื่อมต่อกับฐานข้อมูลที่เข้ากันได้กับ JDBC และสืบค้น แทรก อัปเดต ลบ และอื่นๆ
 - [memgraph/mcp-memgraph](https://github.com/memgraph/ai-toolkit/tree/main/integrations/mcp-memgraph) 🐍 🏠 - เซิร์ฟเวอร์ Memgraph MCP - รวมถึงเครื่องมือสำหรับเรียกใช้คำสั่งกับ Memgraph และทรัพยากรสคีมา
 - [modelcontextprotocol/server-postgres](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/postgres) 📇 🏠 - การผสานรวมฐานข้อมูล PostgreSQL พร้อมความสามารถในการตรวจสอบสคีมาและการสืบค้น
 - [modelcontextprotocol/server-sqlite](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/sqlite) 🐍 🏠 - การดำเนินการฐานข้อมูล SQLite พร้อมคุณสมบัติการวิเคราะห์ในตัว
 - [neo4j-contrib/mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) 🐍 🏠 - Model Context Protocol กับ Neo4j
 - [neondatabase/mcp-server-neon](https://github.com/neondatabase/mcp-server-neon) 📇 ☁️ — เซิร์ฟเวอร์ MCP สำหรับสร้างและจัดการฐานข้อมูล Postgres โดยใช้ Neon Serverless Postgres
 - [niledatabase/nile-mcp-server](https://github.com/niledatabase/nile-mcp-server) เซิร์ฟเวอร์ MCP สำหรับแพลตฟอร์ม Postgres ของ Nile - จัดการและสืบค้นฐานข้อมูล Postgres ผู้เช่า ผู้ใช้ การรับรองความถูกต้องโดยใช้ LLMs
-- [openlink/mcp-server-odbc](https://github.com/OpenLinkSoftware/mcp-odbc-server) 🐍 🏠 - เซิร์ฟเวอร์ MCP สำหรับการเชื่อมต่อระบบจัดการฐานข้อมูล (DBMS) ทั่วไปผ่านโปรโตคอล Open Database Connectivity (ODBC)
-- [openlink/mcp-server-sqlalchemy](https://github.com/OpenLinkSoftware/mcp-sqlalchemy-server) 🐍 🏠 - เซิร์ฟเวอร์ MCP สำหรับการเชื่อมต่อระบบจัดการฐานข้อมูล (DBMS) ทั่วไปผ่าน SQLAlchemy โดยใช้ Python ODBC (pyodbc)
+- [OpenLinkSoftware/mcp-odbc-server](https://github.com/OpenLinkSoftware/mcp-odbc-server) 🐍 🏠 - เซิร์ฟเวอร์ MCP สำหรับการเชื่อมต่อระบบจัดการฐานข้อมูล (DBMS) ทั่วไปผ่านโปรโตคอล Open Database Connectivity (ODBC)
+- [OpenLinkSoftware/mcp-sqlalchemy-server](https://github.com/OpenLinkSoftware/mcp-sqlalchemy-server) 🐍 🏠 - เซิร์ฟเวอร์ MCP สำหรับการเชื่อมต่อระบบจัดการฐานข้อมูล (DBMS) ทั่วไปผ่าน SQLAlchemy โดยใช้ Python ODBC (pyodbc)
 - [pab1it0/adx-mcp-server](https://github.com/pab1it0/adx-mcp-server) 🐍 ☁️ - สืบค้นและวิเคราะห์ฐานข้อมูล Azure Data Explorer
 - [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) 🐍 ☁️ - สืบค้นและวิเคราะห์ Prometheus ระบบตรวจสอบโอเพ่นซอร์ส
 - [prisma/mcp](https://github.com/prisma/mcp) 📇 ☁️ 🏠 - ช่วยให้ LLM จัดการฐานข้อมูล Prisma Postgres ได้ (เช่น สร้างฐานข้อมูลใหม่และรันการ migration หรือ query).
@@ -263,14 +262,14 @@
 - [XGenerationLab/xiyan_mcp_server](https://github.com/XGenerationLab/xiyan_mcp_server) 📇 ☁️ — เซิร์ฟเวอร์ MCP ที่รองรับการดึงข้อมูลจากฐานข้อมูลโดยใช้คำสั่งภาษาธรรมชาติ ขับเคลื่อนโดย XiyanSQL เป็น LLM แบบ text-to-SQL
 - [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) 🐍 ☁️ - เซิร์ฟเวอร์ Model Context Protocol สำหรับโต้ตอบกับ Google Sheets เซิร์ฟเวอร์นี้มีเครื่องมือสำหรับสร้าง อ่าน อัปเดต และจัดการสเปรดชีตผ่าน Google Sheets API
 - [freema/mcp-gsheets](https://github.com/freema/mcp-gsheets) 📇 ☁️ - เซิร์ฟเวอร์ MCP สำหรับการผสานรวม Google Sheets API พร้อมความสามารถในการอ่าน เขียน จัดรูปแบบ และจัดการแผ่นงานอย่างครอบคลุม
-- [ydb/ydb-mcp](https://github.com/ydb-platform/ydb-mcp) 🎖️ 🐍 ☁️ – เซิร์ฟเวอร์ MCP สำหรับโต้ตอบกับฐานข้อมูล [YDB](https://ydb.tech)
+- [ydb-platform/ydb-mcp](https://github.com/ydb-platform/ydb-mcp) 🎖️ 🐍 ☁️ – เซิร์ฟเวอร์ MCP สำหรับโต้ตอบกับฐานข้อมูล [YDB](https://ydb.tech)
 - [zilliztech/mcp-server-milvus](https://github.com/zilliztech/mcp-server-milvus) 🐍 🏠 ☁️ - เซิร์ฟเวอร์ MCP สำหรับ Milvus / Zilliz ทำให้สามารถโต้ตอบกับฐานข้อมูลของคุณได้
 
 ### 📊 แพลตฟอร์มข้อมูล
 
 แพลตฟอร์มข้อมูลสำหรับการผสานรวมข้อมูล การแปลง และการประสานงานไปป์ไลน์
 
-- [JordiNei/mcp-databricks-server](https://github.com/JordiNeil/mcp-databricks-server) - เชื่อมต่อกับ Databricks API ช่วยให้ LLMs สามารถเรียกใช้คำสั่ง SQL แสดงรายการงาน และรับสถานะงาน
+- [JordiNeil/mcp-databricks-server](https://github.com/JordiNeil/mcp-databricks-server) - เชื่อมต่อกับ Databricks API ช่วยให้ LLMs สามารถเรียกใช้คำสั่ง SQL แสดงรายการงาน และรับสถานะงาน
 - [keboola/keboola-mcp-server](https://github.com/keboola/keboola-mcp-server) - โต้ตอบกับ Keboola Connection Data Platform เซิร์ฟเวอร์นี้มีเครื่องมือสำหรับแสดงรายการและเข้าถึงข้อมูลจาก Keboola Storage API
 
 ### 💻 เครื่องมือสำหรับนักพัฒนา
@@ -331,8 +330,8 @@
 - [vivekvells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc) 🗄️ 🚀 - เซิร์ฟเวอร์ MCP สำหรับการแปลงรูปแบบเอกสารอย่างราบรื่นโดยใช้ Pandoc รองรับ Markdown, HTML, PDF, DOCX (.docx), csv และอื่นๆ
 - [VSCode Devtools](https://github.com/biegehydra/BifrostMCP) 📇 - เชื่อมต่อกับ VSCode ide และใช้เครื่องมือเชิงความหมายเช่น `find_usages`
 - [xcodebuild](https://github.com/ShenghaiWang/xcodebuild) 🍎 สร้าง iOS Xcode workspace/project และส่งข้อผิดพลาดกลับไปยัง llm
-- [xzq.xu/jvm-mcp-server](https://github.com/xzq-xu/jvm-mcp-server) 📇 🏠 - โครงการใช้งานเซิร์ฟเวอร์ MCP (Model Context Protocol) บน JVM
-- [yangkyeongmo@/mcp-server-apache-airflow](https://github.com/yangkyeongmo/mcp-server-apache-airflow) 🐍 🏠 - เซิร์ฟเวอร์ MCP ที่เชื่อมต่อกับ [Apache Airflow](https://airflow.apache.org/) โดยใช้ไคลเอนต์อย่างเป็นทางการ
+- [xzq-xu/jvm-mcp-server](https://github.com/xzq-xu/jvm-mcp-server) 📇 🏠 - โครงการใช้งานเซิร์ฟเวอร์ MCP (Model Context Protocol) บน JVM
+- [yangkyeongmo/mcp-server-apache-airflow](https://github.com/yangkyeongmo/mcp-server-apache-airflow) 🐍 🏠 - เซิร์ฟเวอร์ MCP ที่เชื่อมต่อกับ [Apache Airflow](https://airflow.apache.org/) โดยใช้ไคลเอนต์อย่างเป็นทางการ
 - [YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server) 🐍 🏠 - เซิร์ฟเวอร์ Model Context Protocol (MCP) สำหรับสร้างแผนผังความคิดแบบโต้ตอบที่สวยงาม
 - [YuChenSSR/multi-ai-advisor](https://github.com/YuChenSSR/multi-ai-advisor-mcp) 📇 🏠 - เซิร์ฟเวอร์ Model Context Protocol (MCP) ที่สืบค้นโมเดล Ollama หลายตัวและรวมการตอบสนองของพวกมัน ให้มุมมอง AI ที่หลากหลายในคำถามเดียว
 - [yWorks/mcp-typescribe](https://github.com/yWorks/mcp-typescribe) 📇 🏠 - เซิร์ฟเวอร์ MCP ที่ให้ข้อมูล Typescript API อย่างมีประสิทธิภาพแก่ตัวแทนเพื่อให้สามารถทำงานกับ API ที่ไม่ได้รับการฝึกฝน
@@ -373,7 +372,7 @@
 - [8b-is/smart-tree](https://github.com/8b-is/smart-tree) 🦀 🏠 🍎 🪟 🐧 - การแสดงผลไดเร็กทอรีแบบ AI-native พร้อมการวิเคราะห์เชิงความหมาย รูปแบบบีบอัดขั้นสูงสำหรับการใช้งาน AI และลดโทเค็น 10 เท่า รองรับโหมด quantum-semantic พร้อมการจัดหมวดหมู่ไฟล์อัจฉริยะ
 - [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) 🐍 🏠 - แบ่งปันบริบทโค้ดกับ LLMs ผ่าน MCP หรือคลิปบอร์ด
 - [exoticknight/mcp-file-merger](https://github.com/exoticknight/mcp-file-merger) 🏎️ 🏠 - เครื่องมือรวมไฟล์ เหมาะสำหรับขีดจำกัดความยาวของการแชท AI
-- [filesystem@quarkiverse/quarkus-mcp-servers](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/filesystem) ☕ 🏠 - ระบบไฟล์ที่อนุญาตให้เรียกดูและแก้ไขไฟล์ที่ใช้งานใน Java โดยใช้ Quarkus มีให้ใช้งานเป็น jar หรือ native image
+- [quarkiverse/quarkus-mcp-servers](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/filesystem) ☕ 🏠 - ระบบไฟล์ที่อนุญาตให้เรียกดูและแก้ไขไฟล์ที่ใช้งานใน Java โดยใช้ Quarkus มีให้ใช้งานเป็น jar หรือ native image
 - [hmk/box-mcp-server](https://github.com/hmk/box-mcp-server) 📇 ☁️ - การผสานรวม Box สำหรับการแสดงรายการ อ่าน และค้นหาไฟล์
 - [mamertofabian/mcp-everything-search](https://github.com/mamertofabian/mcp-everything-search) 🐍 🏠 🪟 - ค้นหาไฟล์ Windows อย่างรวดเร็วโดยใช้ Everything SDK
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) 🏎️ 🏠 - การใช้งาน Golang สำหรับการเข้าถึงระบบไฟล์ในเครื่อง
@@ -436,7 +435,7 @@
 
 - [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) 📇 #️⃣ 🏠 - เซิร์ฟเวอร์ MCP สำหรับการผสานรวม Unity3d Game Engine สำหรับการพัฒนาเกม
 - [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) 📇 🏠 - เซิร์ฟเวอร์ MCP สำหรับโต้ตอบกับเอนจิ้นเกม Godot ให้เครื่องมือสำหรับการแก้ไข รัน ดีบัก และจัดการฉากในโปรเจ็กต์ Godot
-- [pab1ito/chess-mcp](https://github.com/pab1it0/chess-mcp) 🐍 ☁️ - เข้าถึงข้อมูลผู้เล่น Chess.com บันทึกเกม และข้อมูลสาธารณะอื่นๆ ผ่านอินเทอร์เฟซ MCP มาตรฐาน ช่วยให้ผู้ช่วย AI สามารถค้นหาและวิเคราะห์ข้อมูลหมากรุก
+- [pab1it0/chess-mcp](https://github.com/pab1it0/chess-mcp) 🐍 ☁️ - เข้าถึงข้อมูลผู้เล่น Chess.com บันทึกเกม และข้อมูลสาธารณะอื่นๆ ผ่านอินเทอร์เฟซ MCP มาตรฐาน ช่วยให้ผู้ช่วย AI สามารถค้นหาและวิเคราะห์ข้อมูลหมากรุก
 - [rishijatia/fantasy-pl-mcp](https://github.com/rishijatia/fantasy-pl-mcp/) 🐍 ☁️ - เซิร์ฟเวอร์ MCP สำหรับข้อมูล Fantasy Premier League แบบเรียลไทม์และเครื่องมือวิเคราะห์
 - [opgginc/opgg-mcp](https://github.com/opgginc/opgg-mcp) 📇 ☁️ - เข้าถึงข้อมูลเกมแบบเรียลไทม์จากเกมยอดนิยมเช่น League of Legends, TFT และ Valorant นำเสนอการวิเคราะห์แชมเปี้ยน ตารางการแข่งขันอีสปอร์ต องค์ประกอบเมต้า และสถิติตัวละคร
 
@@ -509,11 +508,10 @@
 - [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser) 📇 ☁️ - เซิร์ฟเวอร์ MCP สำหรับ RAG Web Browser Actor แบบโอเพ่นซอร์สของ Apify เพื่อทำการค้นหาเว็บ สแครป URL และส่งคืนเนื้อหาในรูปแบบ Markdown
 - [Bigsy/Clojars-MCP-Server](https://github.com/Bigsy/Clojars-MCP-Server) 📇 ☁️ - เซิร์ฟเวอร์ MCP ของ Clojars เพื่อข้อมูลการพึ่งพาล่าสุดของไลบรารี Clojure
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) ☁️ 🐍 - ค้นหาเอกสารวิจัยจาก ArXiv
-- [chanmeng/google-news-mcp-server](https://github.com/ChanMeng666/server-google-news) 📇 ☁️ - การรวม Google News พร้อมการจัดหมวดหมู่หัวข้ออัตโนมัติ รองรับหลายภาษา และความสามารถในการค้นหาที่ครอบคลุม รวมถึงพาดหัว เรื่องราว และหัวข้อที่เกี่ยวข้องผ่าน [SerpAPI](https://serpapi.com/)
+- [ChanMeng666/server-google-news](https://github.com/ChanMeng666/server-google-news) 📇 ☁️ - การรวม Google News พร้อมการจัดหมวดหมู่หัวข้ออัตโนมัติ รองรับหลายภาษา และความสามารถในการค้นหาที่ครอบคลุม รวมถึงพาดหัว เรื่องราว และหัวข้อที่เกี่ยวข้องผ่าน [SerpAPI](https://serpapi.com/)
 - [ConechoAI/openai-websearch-mcp](https://github.com/ConechoAI/openai-websearch-mcp/) 🐍 🏠 ☁️ - เซิร์ฟเวอร์ MCP ที่ใช้ Python ซึ่งให้เครื่องมือ `web_search` ในตัวของ OpenAI
 - [devflowinc/trieve](https://github.com/devflowinc/trieve/tree/main/clients/mcp-server) 🎖️ 📇 ☁️ 🏠 - คลานฝังตัว แบ่งส่วน ค้นหา และดึงข้อมูลจากชุดข้อมูลผ่าน [Trieve](https://trieve.ai)
 - [DappierAI/dappier-mcp](https://github.com/DappierAI/dappier-mcp) 🐍 ☁️ - เซิร์ฟเวอร์ MCP ของ Dappier ช่วยให้ค้นหาเว็บแบบเรียลไทม์ได้อย่างรวดเร็วและฟรี พร้อมเข้าถึงข้อมูลระดับพรีเมียมจากแบรนด์สื่อที่เชื่อถือได้ เช่น ข่าว ตลาดการเงิน กีฬา บันเทิง สภาพอากาศ และอื่นๆ เพื่อสร้างเอเจนต์ AI อันทรงพลัง
-- [Dumpling-AI/mcp-server-dumplingai](https://github.com/Dumpling-AI/mcp-server-dumplingai) 🎖️ 📇 ☁️ - เข้าถึงข้อมูล การสแครปเว็บ และ API การแปลงเอกสารโดย [Dumpling AI](https://www.dumplingai.com/)
 - [erithwik/mcp-hn](https://github.com/erithwik/mcp-hn) 🐍 ☁️ - เซิร์ฟเวอร์ MCP เพื่อค้นหา Hacker News รับเรื่องเด่น และอื่นๆ
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) 🎖️ 📇 ☁️ – เซิร์ฟเวอร์ Model Context Protocol (MCP) ที่ช่วยให้ผู้ช่วย AI เช่น Claude ใช้ Exa AI Search API ในการค้นหาเว็บ การตั้งค่านี้ช่วยให้โมเดล AI รับข้อมูลเว็บแบบเรียลไทม์ได้อย่างปลอดภัยและควบคุมได้
 - [fatwang2/search1api-mcp](https://github.com/fatwang2/search1api-mcp) 📇 ☁️ - ค้นหาผ่าน search1api (ต้องใช้คีย์ API แบบชำระเงิน)
@@ -544,10 +542,6 @@
 - [atomicchonk/roadrecon_mcp_server](https://github.com/atomicchonk/roadrecon_mcp_server) 🐍 🪟 🏠 – เซิร์ฟเวอร์ MCP สำหรับวิเคราะห์ผลการรวบรวม ROADrecon จากการแจงนับผู้เช่า Azure
 - [bx33661/Wireshark-MCP](https://github.com/bx33661/Wireshark-MCP) [glama](https://glama.ai/mcp/servers/bx33661/Wireshark-MCP) 🐍 🏠 - เซิร์ฟเวอร์ MCP สำหรับวิเคราะห์แพ็กเก็ตเครือข่าย Wireshark พร้อมความสามารถในการดักจับ สถิติโปรโตคอล การแยกฟิลด์ และการวิเคราะห์ความปลอดภัย
 - [firstorderai/authenticator_mcp](https://github.com/firstorderai/authenticator_mcp) 📇 🏠 🍎 🪟 🐧 – เซิร์ฟเวอร์ MCP (Model Context Protocol) ที่ปลอดภัย ช่วยให้ตัวแทน AI สามารถโต้ตอบกับแอปยืนยันตัวตนได้
-- [BurtTheCoder/mcp-dnstwist](https://github.com/BurtTheCoder/mcp-dnstwist) 📇 🪟 ☁️ - เซิร์ฟเวอร์ MCP สำหรับ dnstwist เครื่องมือ fuzzing DNS อันทรงพลังที่ช่วยตรวจจับการพิมพ์ผิด การฟิชชิ่ง และการจารกรรมองค์กร
-- [BurtTheCoder/mcp-maigret](https://github.com/BurtTheCoder/mcp-maigret) 📇 🪟 ☁️ - เซิร์ฟเวอร์ MCP สำหรับ maigret เครื่องมือ OSINT อันทรงพลังที่รวบรวมข้อมูลบัญชีผู้ใช้จากแหล่งสาธารณะต่างๆ เซิร์ฟเวอร์นี้มีเครื่องมือสำหรับค้นหาชื่อผู้ใช้ในโซเชียลเน็ตเวิร์กและวิเคราะห์ URL
-- [BurtTheCoder/mcp-shodan](https://github.com/BurtTheCoder/mcp-shodan) 📇 🪟 ☁️ - เซิร์ฟเวอร์ MCP สำหรับสอบถาม API ของ Shodan และ Shodan CVEDB เซิร์ฟเวอร์นี้มีเครื่องมือสำหรับการค้นหา IP การค้นหาอุปกรณ์ การค้นหา DNS การสอบถามช่องโหว่ การค้นหา CPE และอื่นๆ
-- [BurtTheCoder/mcp-virustotal](https://github.com/BurtTheCoder/mcp-virustotal) 📇 🪟 ☁️ - เซิร์ฟเวอร์ MCP สำหรับสอบถาม API ของ VirusTotal เซิร์ฟเวอร์นี้มีเครื่องมือสำหรับสแกน URL วิเคราะห์แฮชไฟล์ และดึงรายงานที่อยู่ IP
 - [fr0gger/MCP_Security](https://github.com/fr0gger/MCP_Security) 📇 ☁️ - เซิร์ฟเวอร์ MCP สำหรับสอบถาม API ของ ORKL เซิร์ฟเวอร์นี้มีเครื่องมือสำหรับดึงรายงานภัยคุกคาม วิเคราะห์ตัวแสดงภัยคุกคาม และดึงแหล่งข่าวกรอง
 - [qianniuspace/mcp-security-audit](https://github.com/qianniuspace/mcp-security-audit) 📇 ☁️ เซิร์ฟเวอร์ MCP อันทรงพลังที่ตรวจสอบการพึ่งพาแพ็คเกจ npm เพื่อหาช่องโหว่ด้านความปลอดภัย สร้างด้วยการรวมรีจิสทรี npm ระยะไกลสำหรับการตรวจสอบความปลอดภัยแบบเรียลไทม์
 i- [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP) ☕ 🏠 - เซิร์ฟเวอร์ Model Context Protocol แบบเนทีฟสำหรับ Ghidra มาพร้อมกับการตั้งค่าผ่าน GUI และระบบบันทึก มีเครื่องมือทรงพลัง 31 รายการ และไม่ต้องใช้ไลบรารีภายนอก
@@ -643,7 +637,7 @@ i- [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP) ☕ �
 - [makehq/mcp-server](https://github.com/integromat/make-mcp-server) 🎖️ 📇 🏠 - เปลี่ยนสถานการณ์ [Make](https://www.make.com/) ของคุณให้เป็นเครื่องมือที่เรียกใช้ได้สำหรับผู้ช่วย AI
 - [marcelmarais/Spotify](https://github.com/marcelmarais/spotify-mcp-server) - 📇 🏠 ควบคุมการเล่น Spotify และจัดการเพลย์ลิสต์
 - [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) 🐍 ☁️ 🏠 - โต้ตอบกับ Obsidian ผ่าน REST API
-- [mcp-server-jfx](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/jfx) ☕ 🏠 - วาดบนผ้าใบ JavaFX
+- [quarkiverse/quarkus-mcp-servers](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/jfx) ☕ 🏠 - วาดบนผ้าใบ JavaFX
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 🎖️ 🦀 🏠 🍎 ระบบท้องถิ่นเป็นอันดับแรกที่จับภาพหน้าจอ/เสียงพร้อมการจัดทำดัชนีตามเวลา การจัดเก็บ SQL/embedding การค้นหาเชิงความหมาย การวิเคราะห์ประวัติที่ขับเคลื่อนด้วย LLM และการกระทำที่เกิดจากเหตุการณ์ - ช่วยให้สามารถสร้างตัวแทน AI ที่ตระหนักถึงบริบทผ่านระบบปลั๊กอิน NextJS
 - [modelcontextprotocol/server-everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) 📇 🏠 - เซิร์ฟเวอร์ MCP ที่ใช้คุณสมบัติทั้งหมดของโปรโตคอล MCP
 - [mrjoshuak/godoc-mcp](https://github.com/mrjoshuak/godoc-mcp) 🏎️ 🏠 - เซิร์ฟเวอร์เอกสาร Go ที่มีประสิทธิภาพด้านโทเค็น ซึ่งให้ผู้ช่วย AI เข้าถึงเอกสารแพ็คเกจและประเภทอย่างชาญฉลาดโดยไม่ต้องอ่านไฟล์ต้นฉบับทั้งหมด

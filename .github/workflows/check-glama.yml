@@ -164,7 +164,8 @@ jobs:
               if (match) {
                 const linkText = match[1];
                 const expectedName = `${match[2]}/${match[3]}`;
-                if (!linkText.toLowerCase().includes('/')) {
+                const normalized = linkText.replace(/^@/, '').toLowerCase();
+                if (normalized !== expectedName.toLowerCase()) {
                   badNameLines.push({ linkText, expectedName });
                 }
               }
@@ -382,13 +383,13 @@ jobs:
                   owner,
                   repo,
                   issue_number: pr_number,
-                  body: `${marker}\nThe entry name must use the full \`owner/repo\` format (not just the repo name).
+                  body: `${marker}\nThe entry name must be the exact GitHub \`owner/repo\` of the linked repository (not a different org, npm scope, or lookalike username).
 
             ${examples}
 
             For example: \`[user/mcp-server-example](https://github.com/user/mcp-server-example)\`
 
-            Please update your PR to use the full repository name.`
+            Please update your PR so the link text matches the GitHub URL.`
                 });
               }
             }
